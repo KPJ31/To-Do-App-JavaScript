@@ -22,7 +22,7 @@ This ToDo App is a minimalist task management web app created using vanilla HTML
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (Vanilla)
 - localStorage
 
 ---
