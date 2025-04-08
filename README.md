@@ -1,10 +1,6 @@
 # To-Do-App-JavaScript
 This ToDo App is a minimalist task management web app created using vanilla HTML, CSS, and JavaScript. It allows users to add, edit, delete, and filter tasks based on their status (All, Pending, Completed). The app stores tasks in the browser’s localStorage so users don’t lose their tasks upon refresh or closing the browser.
 
-# 📝 ToDo App - Day #15 | AsmrProg Inspired
-
-A sleek and minimal ToDo List web application built using **HTML**, **CSS**, and **JavaScript**. This project is part of the "50 Days of Projects" challenge and is based on [AsmrProg's](https://www.youtube.com/c/AsmrProg) awesome tutorial series.
-
 ---
 
 ## 🚀 Features
